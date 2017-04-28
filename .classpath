@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="src" path="lib"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER"/>
+	<classpathentry exported="true" kind="lib" path="lib/javacpp.jar"/>
+	<classpathentry exported="true" kind="lib" path="lib/javacv.jar"/>
+	<classpathentry exported="true" kind="lib" path="lib/opencv.jar" sourcepath="C:/Users/LMoon/.m2/repository/org/bytedeco/javacpp-presets/opencv/3.1.0-1.2/opencv-3.1.0-1.2-sources.jar"/>
+	<classpathentry exported="true" kind="lib" path="lib/opencv-linux-x86_64.jar"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>
