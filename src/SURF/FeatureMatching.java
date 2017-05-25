@@ -111,7 +111,7 @@ public class FeatureMatching {
 //		System.loadLibrary("opencv_java249");
 		FeatureMatching mather = new FeatureMatching(new ConsoleView());
 		//FeatureMatching mather = new FeatureMatching(new GEivView());
-		mather.setSource("./surf/6.jpg");
-		mather.doMaping("./surf/3.jpg");
+		mather.setSource("./surf/1.jpg");
+		mather.doMaping("./surf/2.jpg");
 	}
 }

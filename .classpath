@@ -6,6 +6,7 @@
 	<classpathentry exported="true" kind="lib" path="lib/javacpp.jar"/>
 	<classpathentry exported="true" kind="lib" path="lib/javacv.jar"/>
 	<classpathentry exported="true" kind="lib" path="lib/opencv.jar" sourcepath="C:/Users/LMoon/.m2/repository/org/bytedeco/javacpp-presets/opencv/3.1.0-1.2/opencv-3.1.0-1.2-sources.jar"/>
-	<classpathentry exported="true" kind="lib" path="lib/opencv-linux-x86_64.jar"/>
+	<classpathentry kind="lib" path="lib/opencv-windows-x86_64.jar"/>
+	<classpathentry kind="lib" path="lib/ffmpeg-windows-x86_64.jar"/>
 	<classpathentry kind="output" path="bin"/>
 </classpath>
